@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "F:/STAR/ESP32-CAM/start/ESP32-CAM project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
